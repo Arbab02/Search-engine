@@ -1,0 +1,118 @@
+
+*{margin:0px;
+    padding:0px;
+        
+    }
+    
+    html{ scroll-behavior: smooth;
+        
+        
+    }
+    
+    
+    #navbar{ display: flex;
+    align-items: center;
+    position: fixed;		
+    background-color: rgb(24, 23, 23);
+    width: 100%;
+    z-index: 1;	
+    }
+    
+    #logo{
+        margin: 10px 9px;
+        
+    }
+    
+    
+    #logo img{
+        height: 7rem;
+        width : 11rem;
+        margin: 2px 9px 5px 36rem;
+        
+    }
+    
+    
+     
+    
+    
+    
+    #Our-Courses{
+    text-align: center;
+    font-size: 5rem;
+    font-family: Serif;
+    }		
+    #Courses{
+    background-color: #18191A;
+    color: white;
+    }
+    img{ height: 22rem;
+    width: 40rem;
+    align-items: center;
+    }	
+    
+    #services{
+        height: 60rem;
+        background-color: #18191A;
+    }
+
+    #services h1{
+        text-align: center;
+    font-size: 5rem;
+    font-family: Serif;
+    color:white;
+
+    }
+
+  
+    #services h2{
+        text-align: center;
+    font-size: 5rem;
+    font-family: Serif;
+    color:white;
+      margin: 8rem 0px 0px 8px;
+    }
+
+    #services input{
+        display: block;
+        margin: 0px 0px 0px 22rem;
+        padding:0px 0px 0px 24px;
+        width: 40rem;
+        height: 3.2rem;
+        border-radius: 30px;
+        border: none;
+        outline: none;
+    }
+    #services button{
+        margin: 20px 0px 0px 39rem;
+        padding: 8px 24px 8px 24px;
+        font-size: 1.6rem;
+        font-family: serif;
+        border: none;
+border-radius: 30px;
+outline: none;
+    }
+
+#services button:hover{
+background-color: #f67474;
+  cursor: pointer;
+}
+    
+    #services h3{
+        text-align: center;
+    font-size: 5rem;
+    font-family: Serif;
+    color:white;
+    }
+#services h3{
+        text-align: center;
+    font-size: 5rem;
+    font-family: Serif;
+    color:white;
+    }
+    #services p{
+        padding: 0px 20px 0px 20px;
+      margin: 1rem 0px 0px 0px;
+    font-size: 2.4rem;
+    font-family: Serif;
+    color:white;
+    }
